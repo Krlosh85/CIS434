@@ -6,3 +6,6 @@ def subtraction(a,b):
 
 def multiplication(a,b):
     return b*a
+
+def printGreeting():
+    print("Hello from Charlie")
